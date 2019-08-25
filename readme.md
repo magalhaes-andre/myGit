@@ -8,7 +8,7 @@ Simple bash script for cloning a repository under a specific git user.
 
 'export MY_GIT=https://github.com/myUser/'
 
-_Or you could use an "definitive" solution echoing into your environment.
+_Or you could use an "definitive" solution echoing into your environment._
 
 'echo MY_GIT="https://github.com/myUser/" >> /etc/environment'
 
