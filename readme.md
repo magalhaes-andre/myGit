@@ -4,6 +4,9 @@ Simple bash script for cloning a repository under a specific git user.
 
 ## Usage
 
+#### Installation
+Just run: 'bash myGit.bash install'.
+
 #### Export Your Git User
 
 'export MY_GIT=https://github.com/myUser/'
